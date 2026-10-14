@@ -54,7 +54,7 @@ ho provato KDE
 
 {.oss}
 ### Intanto, nel mondo open source
-In realtà, tutto il mondo gira sull'open soruce
+In realtà, tutto il mondo gira sull'open source
 (ogni sistema operativo, ogni server, l'intero internet, il concetto di programmazione)
 
 ---
